@@ -5,7 +5,7 @@
 ## Credits, and Thanks to
 
 #### The Developers of [rapidleach](https://github.com/Th3-822/rapidleech)
-### The Developers of [pyhon telegram bot](https://github.com/python-telegram-bot/python-telegram-bot)
+### The Developers of [python telegram bot](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ### Installation
 #### The Easy Way
